@@ -1,0 +1,45 @@
+body{background-color: rgb(195, 195, 231);}
+.App{
+  background-color: antiquewhite;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.container{
+
+  margin: auto;
+  margin-top: 50px;
+  /* background-color: aqua; */
+  width: 250px;
+  height: 350px;
+}
+.duyme{
+  margin-top: 60px;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(250, 250, 88);
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  scale: 0.9;
+  transition: 8;
+}
+.duyme:hover{
+  scale: 0.8;
+}
+ .App .container .randomNum{
+ padding-top: 50px;
+
+  /* background-color: aqua; */
+}
+
+
+
+
+.numContainer{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  /* background-color: aquamarine; */
+}
